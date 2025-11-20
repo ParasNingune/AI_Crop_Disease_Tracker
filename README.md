@@ -1,4 +1,4 @@
-# 🌱 AI -  Plant Disease Detection System
+# 🌱 AI -  Crop Disease Tracker
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18.0+-green.svg)](https://reactjs.org)
